@@ -1,0 +1,17 @@
+{
+  "name": "study-companion-backend",
+  "version": "1.0.0",
+  "description": "node js backend for the android application study companion",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrikanth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mysql": "^2.16.0"
+  }
+}
