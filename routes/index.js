@@ -1,1 +1,5 @@
-module.exports = [require("./login/"), require("./getMessages")];
+module.exports = [
+	require("./login/"),
+	require("./getMessages"),
+	require("./register")
+];
