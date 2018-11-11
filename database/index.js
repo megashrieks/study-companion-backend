@@ -1,3 +1,4 @@
 module.exports = {
-	login: require("./login")
+	login: require("./login"),
+	getMessages: require("./getMessages")
 };
